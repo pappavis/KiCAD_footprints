@@ -13,6 +13,6 @@ Installasie via KiCAD:
 of
 
 Download die bestande
-1. Download KiCAD_footprints-master.zip
-2. Open die ZIP-argief met bijvb 7zip.
+1. Download https://github.com/pappavis/KiCAD_footprints/archive/master.zip
+2. Open die ZIP-argief met byvoorbeeld 7zip.
 3. Selecteer alle bestende in map KiCAD_footprints-master, en sleep na C:\Program Files\KiCAD\share\kicad\modules
